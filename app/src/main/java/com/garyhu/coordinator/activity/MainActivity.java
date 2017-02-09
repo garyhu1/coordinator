@@ -72,7 +72,7 @@ public class MainActivity extends AppCompatActivity {
 
         switch (item.getItemId()) {
             case R.id.action_about:
-                IntentUtils.openUrl(this, "https://github.com/hugeterry/CoordinatorTabLayout");
+                IntentUtils.openActivity(this,MovieDetailActivity.class);
                 break;
             case R.id.action_about_me:
 //                IntentUtils.openUrl(this, "http://hugeterry.cn/about");

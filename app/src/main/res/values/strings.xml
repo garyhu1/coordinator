@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Coordinator</string>
+    <string name="share">分享</string>
+    <string name="your_friend">你的好友</string>
+    <string name="share_movie">给你分享了一部电影《</string>
+    <string name="share_end">》，快去看看吧！ヾ(ﾟ∀ﾟゞ)</string>
+    <string name="no_network">网络连接失败，请检查网络</string>
+    <string name="casts">影人</string>
+    <string name="photos">剧照</string>
+    <string name="introduction">简介</string>
 </resources>

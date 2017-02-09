@@ -16,6 +16,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".activity.CoordinatorActivity"/>
+        <activity android:name=".activity.MovieDetailActivity"/>
     </application>
 
 </manifest>
